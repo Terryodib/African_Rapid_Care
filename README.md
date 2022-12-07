@@ -20,14 +20,13 @@ We aim to use technology to propose sustainable solutions to the problems we fac
 ## Our Team
 We are a team of two, passionate about providing sustainable solutions to problems around us in order to make life easier and more beautiful for all.
 
+* [**Ushomushode Terry**](https://www.linkedin.com/in/terry-odibo-a01088177/) - Telecoms & Software Engineer.
 * [**Nabil Affo**](https://www.linkedin.com/in/thenabverse/) - Author, Poet, Artist , Content Creator, Telecoms & Software Engineer.
-* **Imani Omboto** [@Imani Omboto](https://www.linkedin.com/in/imani-omboto-1452b91b9) - Business and Technology Innovator, Software engineer & Graphic designer
 
 ## Blog posts
 We each wrote a blog post about our ARC journey.
 
-* Nabil's article: [ARC: Reflections on building a healthcare web app](https://medium.com/@nabilwrites/arc-reflections-on-building-a-healthcare-web-app-55ce5d8543a9)
-* Imani's article: [.....](https://medium.com/)
+* Terry & Nabil article: [ARC: Reflections on building a healthcare web app](https://medium.com/@nabilwrites/arc-reflections-on-building-a-healthcare-web-app-55ce5d8543a9)
 
 
 ## Take a tour of the deployed version at [https://african-rapid-care.tk](https://african-rapid-care.tk)
